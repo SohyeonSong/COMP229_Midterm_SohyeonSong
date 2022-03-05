@@ -1,0 +1,2 @@
+# COMP229_Midterm_SohyeonSong
+ COOMP220_MIdtermCode
