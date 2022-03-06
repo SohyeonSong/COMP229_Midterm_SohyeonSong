@@ -1,2 +1,2 @@
-# COMP229_Midterm_SohyeonSong
- COOMP220_MIdtermCode
+# comp229-W2022-midterm-template
+COMP229 W2022 Midterm template
